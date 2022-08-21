@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T04:03:00.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="uHnNC_Ze4mYP5LiYQswp" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T14:14:09.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="gGlLhv115W1-SlIq8snG" version="20.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5509" dy="2410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="495" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1761" value="Economía de los costes de transacción" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="810" y="650" width="150" height="60" as="geometry" />
+          <mxGeometry x="860" y="650" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="Teoría del agente principal" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#559EBF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="440" y="630" width="150" height="60" as="geometry" />
@@ -558,6 +558,9 @@
             <mxPoint x="525" y="702" as="sourcePoint" />
             <mxPoint x="420" y="779.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xu6228MLhFednzXR-LHb-1890" value="Tratado en el articulo de Coase de 1937" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#407991;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="642.5" width="120" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
